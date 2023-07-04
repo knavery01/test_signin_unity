@@ -1,0 +1,36 @@
+{
+  "project_info": {
+    "project_number": "547630993735",
+    "project_id": "gd-test-9b74f",
+    "storage_bucket": "gd-test-9b74f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547630993735:ios:0f9bd18531d52b1825bc62",
+        "android_client_info": {
+          "package_name": "com.gd.test"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1c7ZNEInrZ5rtR_pRnFo--8YyAk9VyjM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547630993735-frq3m429sdqosfcai1oj28mc01hk71kd.apps.googleusercontent.com"
+        }
+      ]
+    }
+  ],
+  "configuration_version": "1"
+}
